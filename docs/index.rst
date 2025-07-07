@@ -6,8 +6,8 @@ How to Sign Into My ExpressVPN Account: A Simple Guide
    :caption: Contents:
  Learn how to easily sign into your ExpressVPN account with this detailed guide, including tips on resolving common login issues and FAQs.
  
-.. image:: https://expressvpn.readthedocs.io/en/latest/_images/sign-in.jpg
-   :alt: Vidgo TV
+.. image:: sign-in.jpg
+   :alt: Express VPN
    :width: 400px
    :align: center
    :target: https://aclogportal.com/expressvpn-signin
